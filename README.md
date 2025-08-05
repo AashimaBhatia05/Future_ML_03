@@ -69,7 +69,7 @@ support-buddy/
 ---
 
 ## 🌍 Live Demo
-🔗 **Public Link**: [View Chatbot UI]([https://support-buddy.netlify.app/])  
+🔗 **Public Link**: [View Chatbot UI](https://support-buddy.netlify.app/)  
 
 ---
 
