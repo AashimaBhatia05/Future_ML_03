@@ -38,20 +38,6 @@ The goal was to integrate a Dialogflow agent with a web interface and create a c
 
 ---
 
-## 📂 Project Structure
-support-buddy/
-│
-├── index.html # Main integration file
-├──  logo.png # Project logo
-├── screenshots/
-│ ├── full_ui.png
-│ ├── order-tracking.png
-│ ├── payment.png
-│ └── refund.png
-└── README.md
-
----
-
 ## 📸 Screenshots
 
 ### Full Chatbot UI
